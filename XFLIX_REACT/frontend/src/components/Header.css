@@ -1,0 +1,12 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    padding: 1rem;
+    height: 5vh;
+    background: #252526;
+}
+.search {
+    background: #121212;
+    border-color: #444D56;
+    color: #444D56;
+  }
